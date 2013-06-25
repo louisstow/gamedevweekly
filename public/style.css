@@ -60,6 +60,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#a828e2', end
 .section.signup h2 {
 	font-size: 1.5em;
 	font-weight: 400;
+	line-height: 1.3em;
 }
 
 .message {
