@@ -75,6 +75,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#a828e2', end
 	padding-top: 10px;
 }
 
+
 input.button {
 	color: #fff;
 	padding: 8px 15px;
@@ -106,4 +107,7 @@ input.button {
 		0px -1px 0px rgba(000,000,000,0.4),
 		0px 1px 0px rgba(255,255,255,0.3);
 }
+
+a img { 
+	border: 0;
 }
